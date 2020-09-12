@@ -1,4 +1,4 @@
-##  Python environment
+##  Python environment (deprecated) Use Conda instead
 
 1. On MacOS always install the latest versions of `python2` and `python3` from `python.org` first. This will install `python` as a framework and is recommended for development instead of the default `python 2.7.10` that is preinstalled on MacOS
 2. Use `pipenv` for installing packages
